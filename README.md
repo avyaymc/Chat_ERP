@@ -1,6 +1,6 @@
 # PersonalGPT - Conversational Agent
 
-PersonalGPT is a robust conversational agent named "Althea Helper" designed to assist users in a professional context. It orchestrates complex interactions, maintains conversation stages, and utilizes various tools to engage in meaningful and context-aware dialogues.
+PersonalGPT is a robust conversational agent designed to assist users in a professional context. It orchestrates complex interactions, maintains conversation stages, and utilizes various tools to engage in meaningful and context-aware dialogues.
 
 ## Table of Contents
 
@@ -109,6 +109,4 @@ The following prompts show good accuracy:
 - [ ] Delete Tasks
     - [ ] Remove the task with the description of XYZ
     - [ ] Remove this task/the recent task
-
-**Data**
 
