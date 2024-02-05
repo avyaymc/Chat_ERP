@@ -12,8 +12,6 @@ config = {
     'user': 'root',
     'password': 'Test123$',
     'host': 'localhost',
-    'database': 'altheadb',
-    'port': '3306',
 }
 
 def create_dataframe():
